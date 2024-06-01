@@ -1,0 +1,35 @@
+{
+  "name": "material-ui-vite-ts",
+  "private": true,
+  "version": "5.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.15.15",
+    "@mui/material": "latest",
+    "lodash": "^4.17.21",
+    "react": "latest",
+    "react-dom": "latest",
+    "ts-node": "^10.9.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.14",
+    "@types/lodash": "^4.17.0",
+    "@types/mocha": "^10.0.6",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/uuid": "^9.0.8",
+    "@vitejs/plugin-react": "latest",
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0",
+    "typescript": "latest",
+    "vite": "latest"
+  }
+}
